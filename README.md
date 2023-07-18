@@ -11,7 +11,7 @@ To run this project, you will need to have a C compiler installed. Once you have
 
 Here `*target file` is the name of file that you want to run
 Example:
-* `make clash-of-particles-naive-file` - Compile the clash-of-particle-naive-file
+* `make clash-of-particles-naive-file` - Compile the clash-of-particle-naive-file.\n
 Once your program has compiled, there is `.o file` in the main dictionary.
 Following command:
 * `./clash-of-particles-naive-file` - Run the program
