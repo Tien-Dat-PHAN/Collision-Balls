@@ -7,7 +7,7 @@ This project implements collision detection between several balls. The balls are
 # Getting started
 To run this project, you will need to have a C compiler installed. Once you have a compiler, you can compile the project by running the following command:
 
-* 'make *target'
+* ('make *target')
 
 Here *target is the name of file that you want to run
 Example:
@@ -21,8 +21,8 @@ Following command:
 This program is run by the 'naive' version, which means this will cost a lot of time and energy if the number of balls is large (> 100). To address this problem, **I need your help**
 
 # Dependencies
-<stdlib.h> 
-<stdbool.h>
-<stdio.h>
-<math.h>
-"disc.h"
+* <stdlib.h> 
+* <stdbool.h>
+* <stdio.h>
+* <math.h>
+* "disc.h"
