@@ -6,22 +6,22 @@ This project implements collision detection between several balls. The balls are
 
 # Getting started
 To run this project, you will need to have a C compiler installed. Once you have a compiler, you can compile the project by running the following command:
-## Command
-*'make *target'
+
+* 'make *target'
 
 Here *target is the name of file that you want to run
 Example:
-*'make clash-of-particles-naive-file' - Compile the clash-of-particle-naive-file
+* 'make clash-of-particles-naive-file' - Compile the clash-of-particle-naive-file
 Once your program has compiled, there is '.o file' in the main dictionary.
 Following command:
-*'./clash-of-particles-naive-file' - Run the program
+* './clash-of-particles-naive-file' - Run the program
 
 # Contribution
 
 This program is run by the 'naive' version, which means this will cost a lot of time and energy if the number of balls is large (> 100). To address this problem, **I need your help**
 
 # Dependencies
-<stdlib.h>
+<stdlib.h> 
 <stdbool.h>
 <stdio.h>
 <math.h>
