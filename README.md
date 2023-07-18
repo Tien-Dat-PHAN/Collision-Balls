@@ -13,7 +13,6 @@ Here `*target file` is the name of file that you want to run
 Example:
 * `make clash-of-particles-naive-file` - Compile the clash-of-particle-naive-file.
 
-<br>
 Once your program has compiled, there is `.o file` in the main dictionary.
 Following command:
 * `./clash-of-particles-naive-file` - Run the program
