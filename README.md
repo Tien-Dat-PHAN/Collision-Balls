@@ -6,7 +6,9 @@ This project implements collision detection between several balls. The balls are
 
 # Getting started
 To run this project, you will need to have a C compiler installed. Once you have a compiler, you can compile the project by running the following command:
+## Command
 *'make *target'
+
 Here *target is the name of file that you want to run
 Example:
 *'make clash-of-particles-naive-file' - Compile the clash-of-particle-naive-file
