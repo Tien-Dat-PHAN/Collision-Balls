@@ -9,7 +9,8 @@ To run this project, you will need to have a C compiler installed. Once you have
 
 * `make *target file`
 
-Here `*target file` is the name of file that you want to run
+Here `*target file` is the name of file that you want to run. (See the Makefile to extract more details)
+
 Example:
 * `make compile-all` - Compile all program.
 
