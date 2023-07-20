@@ -20,7 +20,7 @@ Following command:
 
 ## Contribution
 
-This program is run by the 'naive' version, which means this will cost a lot of time and energy if the number of balls is large (> 100). To address this problem, **I need your help**
+This program is run by the 'naive' version, which means this will cost a lot of time and energy if the number of balls is large (> 100). To address this problem, **I need your help.**`SOS`
 
 ## Dependencies
 * <stdlib.h> 
